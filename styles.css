@@ -1,0 +1,48 @@
+html {
+    border: solid 5px #f73f5f;
+}
+
+h1 {
+    text-align: center;
+    color: #f78f5f;
+}
+
+body {
+    background-color: #5e4e3e;
+
+}
+
+marquee {
+    border: double 5px #f73f5f;
+    background-image: url("https://media.istockphoto.com/vectors/cats-vector-seamless-pattern-white-vector-id617884058?b=1&k=20&m=617884058&s=612x612&w=0&h=n0mqj92QOXfs2U_rRobKxM2joV2kLD4NurNAokvXQAI="
+        );
+}
+
+.button {
+    background-color: #f9f99f;
+    color: #000;
+    border-color: #f73f5f;
+}
+
+p {
+    text-align: center;
+    color: black;
+    background-color: #FDFF8D;
+    border: dotted 5px #5e4e3e;
+    font-family: 'Atma', cursive;
+}
+
+ul {
+    color: #f78f5f;
+    font-family: 'Atma', cursive;
+}
+
+h2 {
+    color: #f78f5f;
+}
+
+.food {
+    
+    border: double 5px #f73f5f;
+}
+h5{color: #f78f5f;}
